@@ -1,4 +1,5 @@
 # 看家狗 - homeDog
+下载：https://gitee.com/hope-meeter/homeDog/blob/master/app/release/app-release.apk
 
 #### 介绍
 安卓手机无法使用第三方桌面（启动器）的解决方案。
@@ -9,3 +10,4 @@
 
 #### 其他
 可Issue可PR。
+
