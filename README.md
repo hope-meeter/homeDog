@@ -9,7 +9,7 @@ https://gitee.com/hope-meeter/homeDog/blob/master/app/release/app-release.apk
 
 #### 截图
 
-![01][01]
+![01][01]{:width="33%" height="33%"}
 
 #### 注意
 
